@@ -236,7 +236,6 @@ function activateCell() {
 
                     }
                 }
-                console.log(score);
             })
         }
     }
