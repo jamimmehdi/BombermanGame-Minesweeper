@@ -127,7 +127,7 @@ function makeCell() {
 
         if (bombPlantedAt.has(i)) {
             cell.classList.add('bomb');
-            cell.innerText = '.';
+//             cell.innerText = '.';
         } else {
             cell.classList.add('valid');
         }
